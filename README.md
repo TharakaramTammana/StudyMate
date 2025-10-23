@@ -60,7 +60,7 @@ streamlit run app.py
 ## 📂 Project Structure
 
 ```
-StudyMate-OpenAI/
+StudyMate/
 │── requirements.txt
 │── app.py
 │── pdf_processor.py
